@@ -15,7 +15,7 @@
 	<properties>
 		<java.version>17</java.version>
 		<spring-cloud.version>2023.0.1</spring-cloud.version>
-	</properties>
+	</properties> 
 	<properties>
   		<sonar.organization>mrnobodyhawk</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
